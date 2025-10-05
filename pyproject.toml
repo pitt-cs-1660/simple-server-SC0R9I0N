@@ -5,7 +5,6 @@ description = "Cloud Computing CS{16,20}60 Simple Server App"
 authors = [
     {name = "dansc0de dpm79@pitt.edu"}
 ]
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.6,<0.116.0",
